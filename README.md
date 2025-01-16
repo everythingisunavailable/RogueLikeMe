@@ -19,3 +19,7 @@ Rogue Like Me is a 2d game made from scratch using html and javascript. It featu
 
 ##  Links
 [Rogue Like Me](https://everythingisunavailable.github.io/RogueLikeMe/)
+
+
+## Credits
+Player spritesheet : https://dreamir.itch.io/fire-warrior
